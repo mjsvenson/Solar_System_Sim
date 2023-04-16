@@ -12,4 +12,4 @@ This software was designed to implement a physics engine into the static solar s
 
 1. Go to this folder in the linux console
 2. Type "make" into the console
-3. Then type "./NBody [Total time of simulation] [Time passing per second] < [One of the text files in the project]"
+3. Then type "./NBody [Total time of simulation] [Time passing per second] < [One of the "universe" text files in the project]"
